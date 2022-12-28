@@ -2,7 +2,7 @@
 - 👀 I’m interested in chemistry
 - 🌱 I’m currently learning quantum mechanics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Email me at mjs7eek@virginia.edu
 
 <!---
 mohan-s1/mohan-s1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
