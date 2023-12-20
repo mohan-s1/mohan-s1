@@ -2,7 +2,7 @@
 
 
 ## 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mjs7eek@virginia.edu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjs7eek@virginia.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohan-shankar-1076a1264/) 
 
 # 💻 Languages and Libraries:
