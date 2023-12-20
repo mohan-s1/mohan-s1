@@ -1,4 +1,8 @@
-
+# About Me
+Hi there! My name is Mohan, and I am currently a senior at the University of Virginia.
+🔭 I'm currently working on code to model effusion out of a quantum mechanical particle in a box. This is done by creating the box then applying flux-flux and flux-side correlation functions. I'm also exploring a generalization of the Gaussian-Core interaction potential called GEM-n using LAMMPS.
+🌱 I'm currently learning about probability distribution functions, math for machine learning, and the programming language, Julia.
+💬 Ask me about my love for the Fourier transform or my thoughts on pedagogy and communication practices.
 
 
 ## 🌐 Socials:
